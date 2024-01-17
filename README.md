@@ -6,7 +6,7 @@
 
 ## Medium Article
 
-This project is accompanied by a detailed Medium article titled "Android Compose Tutorial - Password Form." You can read the article [here]().
+This project is accompanied by a detailed Medium article titled "Android Compose Tutorial - Password Form." You can read the article [here](https://medium.com/@kenruizinoue/android-compose-tutorial-password-form-daa1d51a80b7).
 
 ## Overview
 
